@@ -7,11 +7,7 @@ Recently started programming. Was contributing themes to [monkeytype](https://mo
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning C++, Rust and Python
-- 💬 Ask me about anything, I'll Google or ChatGPT it for you 
+- 🌱 I’m currently learning Rust and Python
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am learning C++, Rust and Python simultaneously!
 
 I made one plugin for vim so far, it is pinned on my profile.
-I play the guitar and I'm a foodie.
-You can call me a boomer. No issues.
