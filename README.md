@@ -1,4 +1,6 @@
-### `std::cout << "Nice to meet you";`
+### `std::cout << "Nice to meet you!";`
+### `print("Nice to meet you!")`
+### `println!("Nice to meet you!");
 
 Recently started programming. Was contributing themes to [monkeytype](https://monkeytype.com) until then.
 
